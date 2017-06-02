@@ -1,0 +1,29 @@
+{
+  "name": "MongoDB-HW",
+  "version": "1.0.0",
+  "description": "This full stack application allows users view the latest news and leave comments. ### Technologies Used Express, Mongoose, HTML, CSS, Cheerio, Body-Parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyfraz/MongoDB-HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbyfraz/MongoDB-HW/issues"
+  },
+  "homepage": "https://github.com/bobbyfraz/MongoDB-HW#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.4",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0"
+  }
+}
